@@ -1,2 +1,2 @@
 # bilidock
-a rainmeter skin bilibili
+a rainmeter skin bilidock
